@@ -1,0 +1,20 @@
+{
+  "name": "tcp_client",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --watch ./src/index.ts"
+  },
+  "dependencies": {},  
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "tsc": "^2.0.4",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
